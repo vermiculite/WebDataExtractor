@@ -18,3 +18,5 @@ context.clear = function() {
         console.log('\r\n');
     }
 };
+
+context.fetch('http://www.pisos.com');
